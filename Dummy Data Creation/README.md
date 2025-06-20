@@ -1,23 +1,23 @@
 
-# 🧾 Real-Time Inventory Dummy Data Generation – Task 1
+#  Real-Time Inventory Dummy Data Generation – Task 1
 
 This task involves generating a realistic dummy dataset using the structure of the **Online Retail II** dataset. The primary goal is to simulate inventory and transaction data to be used for further analysis, machine learning, or dashboard development.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - `dummy_data.ipynb` – Jupyter notebook that creates a dummy dataset based on selected columns from the original dataset.
 - `online_retail_II.csv` – Original data source used as a reference for structure and values.
 
 ---
 
-## ✅ Task Overview
+##  Task Overview
 
 **Objective**:  
 Create a **10,000-row dummy dataset** by extracting product information and adding synthetic data for analysis and system testing.
 
-### 🔧 Steps Performed:
+###  Steps Performed:
 
 1. **Read and Explore Original Dataset** (`online_retail_II.csv`)
 2. **Selected Columns**:
@@ -38,7 +38,7 @@ Create a **10,000-row dummy dataset** by extracting product information and addi
 
 ---
 
-## 📊 Sample Output Columns
+##  Sample Output Columns
 
 | Invoice | StockCode | Description | Quantity | UnitPrice | InvoiceDate | Customer ID | Country | Vendor |
 |---------|-----------|-------------|----------|-----------|--------------|--------------|---------|--------|
