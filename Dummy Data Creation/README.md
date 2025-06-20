@@ -45,7 +45,7 @@ Create a **10,000-row dummy dataset** by extracting product information and addi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**: `pandas`, `numpy`, `random`
 - **Jupyter Notebook** for development
@@ -53,7 +53,7 @@ Create a **10,000-row dummy dataset** by extracting product information and addi
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 - Use this dummy data for building a product inventory dashboard.
 - Apply data cleaning, transformation, and modeling techniques.
