@@ -37,12 +37,12 @@ This dummy dataset is a simulated, cleaned, and feature-enhanced version of the 
 - Float values like `2.55`, `0.85`, `1.65`.
 - Used to compute revenue or for pricing comparison.
 
-### 5. `Quantity` *(Dummy)*
+### 5. `Quantity` 
 - Simulated quantity of items sold (random integers).
 - Used to calculate total line revenue (`Price × Quantity`).
 - Helps simulate order volumes and purchasing behavior.
 
-### 6. `Vendor` *(Dummy)*
+### 6. `Vendor` 
 - Simulated vendor or supplier name.
 - Helps simulate supplier-level analytics.
 - Sample vendors: `Apple Inc.`, `Samsung Ltd.`, `Sony Corp.`, etc.
