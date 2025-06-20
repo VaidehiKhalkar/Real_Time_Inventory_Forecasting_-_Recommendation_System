@@ -7,7 +7,7 @@ This task involves generating a realistic dummy dataset using the structure of t
 
 ##  Project Structure
 
-- `dummy_data.ipynb` – Jupyter notebook that creates a dummy dataset based on selected columns from the original dataset.
+- `dummy_data.ipynb` – Google Colab that creates a dummy dataset based on selected columns from the original dataset.
 - `online_retail_II.csv` – Original data source used as a reference for structure and values.
 
 ---
@@ -48,7 +48,7 @@ Create a **10,000-row dummy dataset** by extracting product information and addi
 ##  Tech Stack
 
 - **Python**: `pandas`, `numpy`, `random`
-- **Jupyter Notebook** for development
+- **Google Colab** for development
 - **CSV** for original data structure
 
 ---
